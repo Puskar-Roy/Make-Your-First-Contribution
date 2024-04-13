@@ -1,3 +1,32 @@
+Install Git
+============
+
+### For Windows 64-bit 
+
+`https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/Git-2.44.0-64-bit.exe` 
+
+### For Linux (Debian/Ubuntu)  
+
+`apt-get install git` 
+
+### For macOS  
+
+`brew install git` 
+
+
+Configure Git
+============
+
+### Configure Your Email
+`git config --global user.name "Your Github Name"`
+
+### Configure Your Email
+`git config --global user.email "your-github-email@example.com"`
+
+### Check Configuration
+`git config --list`
+
+
 Git Commands
 ============
 
