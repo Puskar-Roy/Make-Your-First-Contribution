@@ -17,7 +17,7 @@ Install Git
 Configure Git
 ============
 
-### Configure Your Email
+### Configure Your Name
 `git config --global user.name "Your Github Name"`
 
 ### Configure Your Email
